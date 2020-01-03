@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/template-my-react-site/static/css/main.b100e6da.chunk.css",
+    "main.js": "/template-my-react-site/static/js/main.f291b26d.chunk.js",
+    "main.js.map": "/template-my-react-site/static/js/main.f291b26d.chunk.js.map",
+    "runtime-main.js": "/template-my-react-site/static/js/runtime-main.83483996.js",
+    "runtime-main.js.map": "/template-my-react-site/static/js/runtime-main.83483996.js.map",
+    "static/css/2.833dd627.chunk.css": "/template-my-react-site/static/css/2.833dd627.chunk.css",
+    "static/js/2.17951cf9.chunk.js": "/template-my-react-site/static/js/2.17951cf9.chunk.js",
+    "static/js/2.17951cf9.chunk.js.map": "/template-my-react-site/static/js/2.17951cf9.chunk.js.map",
+    "index.html": "/template-my-react-site/index.html",
+    "precache-manifest.eac4007d393f1bdb8d17945841720911.js": "/template-my-react-site/precache-manifest.eac4007d393f1bdb8d17945841720911.js",
+    "service-worker.js": "/template-my-react-site/service-worker.js",
+    "static/css/2.833dd627.chunk.css.map": "/template-my-react-site/static/css/2.833dd627.chunk.css.map",
+    "static/css/main.b100e6da.chunk.css.map": "/template-my-react-site/static/css/main.b100e6da.chunk.css.map",
+    "static/media/dp-logo.png": "/template-my-react-site/static/media/dp-logo.b49a8088.png",
+    "static/media/react-bootstrap.svg": "/template-my-react-site/static/media/react-bootstrap.83fe61b0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83483996.js",
+    "static/css/2.833dd627.chunk.css",
+    "static/js/2.17951cf9.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.f291b26d.chunk.js"
+  ]
+}
